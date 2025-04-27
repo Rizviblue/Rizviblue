@@ -5,9 +5,10 @@
 - 👨‍💻 I’m working as a Frontend Developer Intern at Softverse Solutions and Freelance Web Developer at Danish Code.
 - 📈 Experienced CPA Marketer (AdBlue Media) and Sales Executive (SkyTech Solutions).
 - 🌱 Currently learning advanced JavaScript, React, and UI/UX Design.
+
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, CRM Tools, or Digital Marketing.
 - 📫 How to reach me: [syedaliabbas2003@yahoo.com](mailto:syedaliabbas2003@yahoo.com)
-- 🌍 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rizviblue/)
+- 🌍 LinkedIn: [Ali Abbas R.](https://www.linkedin.com/in/rizviblue/)
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
