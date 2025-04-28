@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 I’m currently pursuing an Advanced Diploma in Software Engineering from Aptech Learning, and a Bachelor's in Accounting and Finance from Bahria University Karachi Campus.
-- 👨‍💻 I’m working as a Frontend Developer Intern at Softverse Solutions and Freelance Web Developer at Danish Code.
+- 👨‍💻 I’m working as a Frontend Developer Intern at Think Software Solutions and Freelance Web Developer at Danish Code.
 - 📈 Experienced CPA Marketer (AdBlue Media) and Sales Executive (SkyTech Solutions).
 - 🌱 Currently learning advanced JavaScript, React, and UI/UX Design.
 
